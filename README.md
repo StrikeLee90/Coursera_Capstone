@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Course Applied Data Science Capstone - task 1
+Coursera/IBM Course: Applied Data Science Capstone -> task 1
